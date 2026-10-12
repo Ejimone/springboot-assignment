@@ -4,6 +4,19 @@
 
 ![Evidence Ejimone homepage](./homepage.png)
 
+## Startup output (CommandLineRunner)
+
+When the application starts, `StudentInfoRunner` (a `CommandLineRunner`) prints the student details to the console:
+
+```
+Application Started
+Student Name: Evidence Ejimone
+Course: Spring Boot
+Status: Training
+```
+
+![Spring Boot startup output](./startup-output.png)
+
 ## Run locally
 
 ```bash
